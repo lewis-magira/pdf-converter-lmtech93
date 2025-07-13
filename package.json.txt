@@ -1,0 +1,11 @@
+{
+  "name": "pdf-converter-lmtech93",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "multer": "^1.4.5",
+    "node-fetch": "^2.6.7",
+    "form-data": "^4.0.0"
+  }
+}
